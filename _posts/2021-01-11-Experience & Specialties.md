@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-### Experience:
-
+**Key Experience:**
 - Senior management and key leadership roles for multiple IT organizations including, strategic planning, management and architectural direction.
 - Delivered enterprise level solutions to aggressively growing companies working in resource constrained environments.
 - Delivered internal and external customer facing systems built on in-house and Cloud based platforms.
@@ -13,6 +12,5 @@ published: true
 - Implemented Agile and Lean methodologies for software development and infrastructure implementation.
 - Implemented comprehensive information security processes to meet and exceed the highest levels of information system security and data privacy, including those required to meet the PCI Level 1 Service Provider certification.
 
-S### pecialties: 
-
+**Specialties:** 
 IT Governance and Alignment  ● Strategic Planning ● Enterprise Roadmap Prioritization ● Enterprise Architecture ● Analysis  ●  Agile/Lean SDLC ● Application development  ● Program & Project Management ● Cloud Computing: SaaS, PaaS and IaaS ● CRM & Case Management ● IT Outsourcing: OnShore and Offshore (India & Croatia) ● SOA  based Shared Services ● IT Budget Planning: CapEx & OpEx ● Marketing & Technical presentations ● Operations and Infrastructure ● Security and Compliance ● Team Building
