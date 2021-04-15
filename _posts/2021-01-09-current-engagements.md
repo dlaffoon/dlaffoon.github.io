@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Current Engagements...
-published: true
+published: false
 ---
-![SGO Professional Services]({{ site.baseurl }}/images/CSGOLogo.png)
+![SGO Professional Services]({{ site.baseurl }}/images/SGOLogo.png)
 I am the CTO and President of SGO Professional Services LLC. We provide technical services of all types, including: 
 - Technical Consulting
 - Sotware Engineering
