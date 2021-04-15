@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Articles and Media...
-published: true
+published: false
 ---
 - [**Baltimore citybizlist:** Darrell Laffoon Elected to Cybersecurity Association of Maryland Board](https://baltimore.citybizlist.com/article/437695/darrell-laffoon-elected-to-cybersecurity-association-of-maryland-board)
 
@@ -9,7 +9,7 @@ published: true
 
 - [**MarketWatch:** The next big risk to your privacy: Your child’s video-game habit](https://www.marketwatch.com/story/the-next-big-risk-to-your-security-is-your-kids-video-game-habit-2018-12-06)
 
-- [**cnet:** Data breaches can sucker-punch you. Prepare to fight back](https://www.cnet.com/news/2018-data-breaches-help-crooks-targeting-you-prepare-to-fight-back/)
+- [**cnet:** Data breaches can suckerpunch you. Prepare to fight back](https://www.cnet.com/news/2018-data-breaches-help-crooks-targeting-you-prepare-to-fight-back/)
 
 - [**Technical.ly:** Here are the winners of the 2019 Maryland Cybersecurity Awards](https://technical.ly/baltimore/2019/04/12/winners-2019-maryland-cybersecurity-awards/)
 
