@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Current Engagements...
-published: true
+published: false
 ---
 ![Cybersecurity Association of Maryland]({{site.baseurl}}/_posts/CAMI 195712.png)
-![Cybersecurity Association of Maryland]https://raw.githubusercontent.com/dlaffoon/dlaffoon.github.io/master/images/46821532.jpg
 
+![_config.yml]https://raw.githubusercontent.com/dlaffoon/dlaffoon.github.io/master/images/46821532.jpg
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 I sit on CAMI's board and serve as the Executive Secretary.
 
