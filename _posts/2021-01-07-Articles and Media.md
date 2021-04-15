@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Articles and Media...
-published: true
+published: false
 ---
 - [Baltimore citybizlist: Darrell Laffoon Elected to Cybersecurity Association of Maryland Board](https://baltimore.citybizlist.com/article/437695/darrell-laffoon-elected-to-cybersecurity-association-of-maryland-board)
 
@@ -23,4 +23,3 @@ published: true
   - [What do you like about Apprenticeships?](https://vimeo.com/243691820)
   - [What was your educational plan?](https://vimeo.com/243691589)
   - [School Vs On the Job Training](https://vimeo.com/243692109)
-
