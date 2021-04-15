@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Baltimore citybizlist: Darrell Laffoon Elected to Cybersecurity Association of Maryland Board
 (https://baltimore.citybizlist.com/article/437695/darrell-laffoon-elected-to-cybersecurity-association-of-maryland-board)
