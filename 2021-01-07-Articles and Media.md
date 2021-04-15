@@ -1,5 +1,5 @@
-Baltimore citybizlist: Darrell Laffoon Elected to Cybersecurity Association of Maryland Board
-https://baltimore.citybizlist.com/article/437695/darrell-laffoon-elected-to-cybersecurity-association-of-maryland-board
+[Baltimore citybizlist: Darrell Laffoon Elected to Cybersecurity Association of Maryland Board]
+(https://baltimore.citybizlist.com/article/437695/darrell-laffoon-elected-to-cybersecurity-association-of-maryland-board)
 
 MarketWatch: It’s tax season — this is how email scammers are trying to fool you
 https://www.marketwatch.com/story/tax-season-has-begun-and-fraudsters-are-targeting-taxpayers-with-new-email-scams-2019-01-29
