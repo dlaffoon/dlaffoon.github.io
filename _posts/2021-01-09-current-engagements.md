@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Engagements...
-published: false
+published: true
 ---
 ![SGO Professional Services]({{ site.baseurl }}/images/CSGOLogo.png)
 I am the CTO and President of SGO Professional Services LLC. We provide technical services of all types, including: 
