@@ -1,8 +1,15 @@
 ---
 layout: post
 title: Current Engagements...
-published: true
+published: false
 ---
+![Cybersecurity Association of Maryland]({{ site.baseurl }}/images/CSGOLogo.png)
+I am the CTO and President of SGO Professional Services LLC. We provide technical services of all types, including: 
+- Technical Consulting
+- Sotware Engineering
+- Information Security
+- Technology Infrastructure
+
 ![Cybersecurity Association of Maryland]({{ site.baseurl }}/images/CAMI195712.png)
 
 I sit on CAMI's board and serve as the Executive Secretary.
