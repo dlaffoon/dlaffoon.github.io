@@ -6,8 +6,9 @@ published: true
 ---
 
 ![SGO Professional Services]({{ site.baseurl }}/images/SGOLogoSmall.png)
+
 Darrell Laffooon
-President andn CTO
+President and CTO
 
 I have worked in Technology going on almost 37 years. I spent about half of that time as a software engineer. The other half was spent in leadership roles, including more than 10 years of experience servicing as Chief Technology Officer for Sontiq, an industry-leading provider of identity protection services to consumers and small businesses. In that role, I had executive responsibility for the strategic planning, development, implementation, security, compliance and overall administration of distributed and centralized enterprise information systems. Having been with EZShield from its inception in 2001, and then acquired by parent company Sontiq in 2018, I established the companys technological vision and infrastructure, and provided technical leadership and IT alignment across the organization. I and my team worked closely with product development to identify, assess, and recommend appropriate emerging technologies and oversee their integration and alignment with Company needs.
 
