@@ -3,7 +3,7 @@ layout: post
 title: Current Engagements...
 published: true
 ---
-![Cybersecurity Association of Maryland]({{ site.baseurl }}/images/CSGOLogo.png)
+![SGO Professional Services]({{ site.baseurl }}/images/CSGOLogo.png)
 I am the CTO and President of SGO Professional Services LLC. We provide technical services of all types, including: 
 - Technical Consulting
 - Sotware Engineering
