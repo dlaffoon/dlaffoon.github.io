@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Engagements...
-published: false
+published: true
 ---
 ![Cybersecurity Association of Maryland]({{ site.baseurl }}/images/CAMI195712.png)
 
