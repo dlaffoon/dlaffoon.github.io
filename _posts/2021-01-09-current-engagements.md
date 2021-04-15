@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Engagements...
-published: false
+published: true
 ---
 ![SGO Professional Services]({{ site.baseurl }}/images/SGOLogoSmaller.png)
 
