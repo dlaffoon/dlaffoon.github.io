@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Engagements...
-published: false
+published: true
 ---
 ![Cybersecurity Association of Maryland]({{site.baseurl}}/_posts/CAMI 195712.png)
 I currenty sit on CAMI's board and serve as the Executive Secretary.
