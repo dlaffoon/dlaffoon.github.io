@@ -14,7 +14,7 @@ I have worked in Technology going on almost 37 years. I spent about half of that
 
 With more than more than 37 years of technology experience in key and executive leadership roles, I possesses a deep knowledge of application and web development, enterprise architecture, security, network infrastructure, R&D and IT governance processes. I have a fundamental belief that the goal of technology, in any organization, is to meet the strategic enterprise goals by leveraging technology resources to produce the highest return on investment and support growth. I studied Electrical Engineering and Computer Science at University of Maryland and received my Certified Information Executive (CIE) certification from The Institute for CIO Excellence. I am an active member of the IT Committee for the Better Business Bureau of Greater Marylan, and I am a sitting board member of the Cybersecurity Association of Maryland (CAMI) and serve as executive secretary.
 
-I have been married 35 years to my wife Robin. We are the proud parents of six adult children and the doting grandparents of two grandchilding. I and my wife reside in Bel Air, Maryland with our 'other' children, our four Chihuahuas.
+I have been married 35 years to my wife Robin. We are the proud parents of six adult children and the doting grandparents of four grandchildren. I and my wife reside in Bel Air, Maryland with our 'other' children, our four Chihuahuas.
 
 
 ### Contact me:
